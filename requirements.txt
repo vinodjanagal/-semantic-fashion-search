@@ -1,0 +1,18 @@
+# Core Application & UI
+streamlit
+pandas
+
+# AI & Machine Learning
+sentence-transformers
+torch
+
+# Vector Database
+chromadb
+
+# Data Cleaning & Web
+beautifulsoup4
+requests
+tqdm
+
+# Kaggle API for data download
+kaggle
