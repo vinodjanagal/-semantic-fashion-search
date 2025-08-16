@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -205,3 +206,24 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+=======
+# Ignore the huge, multi-gigabyte database folder.
+# This should be built by running the setup script, not stored here.
+/fashion_db/
+
+# Ignore the downloaded dataset folder.
+/myntra_fashion_data/
+
+# Ignore Python's temporary cache files.
+__pycache__/
+*.pyc
+
+# Ignore environment files (if you have them).
+.env
+venv/
+.venv/
+env/
+
+# Ignore VS Code specific settings.
+.vscode/
+>>>>>>> 54c6a9f (feat: Initial commit of complete semantic search application)
